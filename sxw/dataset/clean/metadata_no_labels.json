@@ -1,0 +1,2582 @@
+{
+  "10cm__NO_BOX__LED_GREEN__1M_2M_3M_4M.jpeg": {
+    "filename": "10cm__NO_BOX__LED_GREEN__1M_2M_3M_4M.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_MMMM",
+      "box": false,
+      "lighting": "LED_GREEN"
+    },
+    "solders": {
+      "1": "MISSING",
+      "2": "MISSING",
+      "3": "MISSING",
+      "4": "MISSING"
+    }
+  },
+  "10cm__NO_BOX__TIKTOK_COLD_8__1G_2G_3G_4G.jpeg": {
+    "filename": "10cm__NO_BOX__TIKTOK_COLD_8__1G_2G_3G_4G.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230426_TIKTOK_GGGG",
+      "box": false,
+      "lighting": "TIKTOK_COLD_8"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "GOOD",
+      "4": "GOOD"
+    }
+  },
+  "10cm__BOX__LED_DEEPBLUE__1G_2B_3G_4G.jpeg": {
+    "filename": "10cm__BOX__LED_DEEPBLUE__1G_2B_3G_4G.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GBGG",
+      "box": true,
+      "lighting": "LED_DEEPBLUE"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "BAD",
+      "3": "GOOD",
+      "4": "GOOD"
+    }
+  },
+  "10cm__NO_BOX__LED_DEEPBLUE__1M_2M_3M_4M.jpeg": {
+    "filename": "10cm__NO_BOX__LED_DEEPBLUE__1M_2M_3M_4M.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_MMMM",
+      "box": false,
+      "lighting": "LED_DEEPBLUE"
+    },
+    "solders": {
+      "1": "MISSING",
+      "2": "MISSING",
+      "3": "MISSING",
+      "4": "MISSING"
+    }
+  },
+  "10cm__BOX__LED_WHITE__1G_2B_3G_4G.jpeg": {
+    "filename": "10cm__BOX__LED_WHITE__1G_2B_3G_4G.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GBGG",
+      "box": true,
+      "lighting": "LED_WHITE"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "BAD",
+      "3": "GOOD",
+      "4": "GOOD"
+    }
+  },
+  "5cm__BOX__NONE__1G_2G_3G_4G.jpeg": {
+    "filename": "5cm__BOX__NONE__1G_2G_3G_4G.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 5.0
+    },
+    "environment": {
+      "setup_id": "20230426_TIKTOK_GGGG_5CM",
+      "box": true,
+      "lighting": "NONE"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "GOOD",
+      "4": "GOOD"
+    }
+  },
+  "5cm__BOX__TIKTOK_WHITE_8__1G_2G_3G_4G.jpeg": {
+    "filename": "5cm__BOX__TIKTOK_WHITE_8__1G_2G_3G_4G.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 5.0
+    },
+    "environment": {
+      "setup_id": "20230426_TIKTOK_GGGG_5CM",
+      "box": true,
+      "lighting": "TIKTOK_WHITE_8"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "GOOD",
+      "4": "GOOD"
+    }
+  },
+  "10cm__NO_BOX__TIKTOK_WHITE_8__1M_2M_3M_4M.jpeg": {
+    "filename": "10cm__NO_BOX__TIKTOK_WHITE_8__1M_2M_3M_4M.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230426_TIKTOK_MMMM",
+      "box": false,
+      "lighting": "TIKTOK_WHITE_8"
+    },
+    "solders": {
+      "1": "MISSING",
+      "2": "MISSING",
+      "3": "MISSING",
+      "4": "MISSING"
+    }
+  },
+  "10cm__BOX__LED_RED__1G_2B_3G_4B.jpeg": {
+    "filename": "10cm__BOX__LED_RED__1G_2B_3G_4B.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GBGB",
+      "box": true,
+      "lighting": "LED_RED"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "BAD",
+      "3": "GOOD",
+      "4": "BAD"
+    }
+  },
+  "10cm__NO_BOX__LED_PINK__1M_2M_3M_4M.jpeg": {
+    "filename": "10cm__NO_BOX__LED_PINK__1M_2M_3M_4M.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_MMMM",
+      "box": false,
+      "lighting": "LED_PINK"
+    },
+    "solders": {
+      "1": "MISSING",
+      "2": "MISSING",
+      "3": "MISSING",
+      "4": "MISSING"
+    }
+  },
+  "10cm__BOX__LED_CYAN__1M_2M_3M_4M.jpeg": {
+    "filename": "10cm__BOX__LED_CYAN__1M_2M_3M_4M.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_MMMM",
+      "box": true,
+      "lighting": "LED_CYAN"
+    },
+    "solders": {
+      "1": "MISSING",
+      "2": "MISSING",
+      "3": "MISSING",
+      "4": "MISSING"
+    }
+  },
+  "5cm__NO_BOX__TIKTOK_WHITE_8__1G_2G_3G_4G.jpeg": {
+    "filename": "5cm__NO_BOX__TIKTOK_WHITE_8__1G_2G_3G_4G.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 5.0
+    },
+    "environment": {
+      "setup_id": "20230426_TIKTOK_GGGG_5CM",
+      "box": false,
+      "lighting": "TIKTOK_WHITE_8"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "GOOD",
+      "4": "GOOD"
+    }
+  },
+  "10cm__BOX__TIKTOK_WHITE_8__1G_2B_3G_4B.jpeg": {
+    "filename": "10cm__BOX__TIKTOK_WHITE_8__1G_2B_3G_4B.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230426_TIKTOK_GBGB",
+      "box": true,
+      "lighting": "TIKTOK_WHITE_8"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "BAD",
+      "3": "GOOD",
+      "4": "BAD"
+    }
+  },
+  "10cm__BOX__LED_GREEN__1G_2B_3G_4G.jpeg": {
+    "filename": "10cm__BOX__LED_GREEN__1G_2B_3G_4G.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GBGG",
+      "box": true,
+      "lighting": "LED_GREEN"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "BAD",
+      "3": "GOOD",
+      "4": "GOOD"
+    }
+  },
+  "5cm__BOX__TIKTOK_WHITE_6__1G_2G_3G_4G.jpeg": {
+    "filename": "5cm__BOX__TIKTOK_WHITE_6__1G_2G_3G_4G.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 5.0
+    },
+    "environment": {
+      "setup_id": "20230426_TIKTOK_GGGG_5CM",
+      "box": true,
+      "lighting": "TIKTOK_WHITE_6"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "GOOD",
+      "4": "GOOD"
+    }
+  },
+  "5cm__BOX__TIKTOK_WHITE_4__1G_2G_3G_4G.jpeg": {
+    "filename": "5cm__BOX__TIKTOK_WHITE_4__1G_2G_3G_4G.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 5.0
+    },
+    "environment": {
+      "setup_id": "20230426_TIKTOK_GGGG_5CM",
+      "box": true,
+      "lighting": "TIKTOK_WHITE_4"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "GOOD",
+      "4": "GOOD"
+    }
+  },
+  "10cm__BOX__LED_PURPLE__1M_2M_3M_4M.jpeg": {
+    "filename": "10cm__BOX__LED_PURPLE__1M_2M_3M_4M.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_MMMM",
+      "box": true,
+      "lighting": "LED_PURPLE"
+    },
+    "solders": {
+      "1": "MISSING",
+      "2": "MISSING",
+      "3": "MISSING",
+      "4": "MISSING"
+    }
+  },
+  "10cm__BOX__TIKTOK_WHITE_8__1G_2G_3B_4B.jpeg": {
+    "filename": "10cm__BOX__TIKTOK_WHITE_8__1G_2G_3B_4B.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230426_TIKTOK_GGBB",
+      "box": true,
+      "lighting": "TIKTOK_WHITE_8"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "BAD",
+      "4": "BAD"
+    }
+  },
+  "10cm__BOX__LED_PURPLE__1G_2B_3G_4B.jpeg": {
+    "filename": "10cm__BOX__LED_PURPLE__1G_2B_3G_4B.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GBGB",
+      "box": true,
+      "lighting": "LED_PURPLE"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "BAD",
+      "3": "GOOD",
+      "4": "BAD"
+    }
+  },
+  "10cm__BOX__LED_CYAN__1G_2G_3G_4G.jpeg": {
+    "filename": "10cm__BOX__LED_CYAN__1G_2G_3G_4G.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GGGG",
+      "box": true,
+      "lighting": "LED_CYAN"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "GOOD",
+      "4": "GOOD"
+    }
+  },
+  "10cm__BOX__LED_LIGHTBLUE__1G_2B_3G_4B.jpeg": {
+    "filename": "10cm__BOX__LED_LIGHTBLUE__1G_2B_3G_4B.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GBGB",
+      "box": true,
+      "lighting": "LED_LIGHTBLUE"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "BAD",
+      "3": "GOOD",
+      "4": "BAD"
+    }
+  },
+  "5cm__BOX__TIKTOK_WHITE_1__1G_2G_3G_4G.jpeg": {
+    "filename": "5cm__BOX__TIKTOK_WHITE_1__1G_2G_3G_4G.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 5.0
+    },
+    "environment": {
+      "setup_id": "20230426_TIKTOK_GGGG_5CM",
+      "box": true,
+      "lighting": "TIKTOK_WHITE_1"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "GOOD",
+      "4": "GOOD"
+    }
+  },
+  "10cm__NO_BOX__LED_PINK__1G_2G_3G_4G.jpeg": {
+    "filename": "10cm__NO_BOX__LED_PINK__1G_2G_3G_4G.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GGGG",
+      "box": false,
+      "lighting": "LED_PINK"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "GOOD",
+      "4": "GOOD"
+    }
+  },
+  "10cm__NO_BOX__LED_YELLOW__1G_2B_3G_4B.jpeg": {
+    "filename": "10cm__NO_BOX__LED_YELLOW__1G_2B_3G_4B.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GBGB",
+      "box": false,
+      "lighting": "LED_YELLOW"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "BAD",
+      "3": "GOOD",
+      "4": "BAD"
+    }
+  },
+  "10cm__BOX__TIKTOK_WHITE_8__1G_2G_3G_4G.jpeg": {
+    "filename": "10cm__BOX__TIKTOK_WHITE_8__1G_2G_3G_4G.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230426_TIKTOK_GGGG",
+      "box": true,
+      "lighting": "TIKTOK_WHITE_8"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "GOOD",
+      "4": "GOOD"
+    }
+  },
+  "10cm__BOX__LED_CYAN__1G_2B_3G_4B.jpeg": {
+    "filename": "10cm__BOX__LED_CYAN__1G_2B_3G_4B.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GBGB",
+      "box": true,
+      "lighting": "LED_CYAN"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "BAD",
+      "3": "GOOD",
+      "4": "BAD"
+    }
+  },
+  "10cm__NO_BOX__LED_LIGHTBLUE__1G_2G_3G_4G.jpeg": {
+    "filename": "10cm__NO_BOX__LED_LIGHTBLUE__1G_2G_3G_4G.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GGGG",
+      "box": false,
+      "lighting": "LED_LIGHTBLUE"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "GOOD",
+      "4": "GOOD"
+    }
+  },
+  "10cm__NO_BOX__TIKTOK_WARM_8__1M_2M_3M_4M.jpeg": {
+    "filename": "10cm__NO_BOX__TIKTOK_WARM_8__1M_2M_3M_4M.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230426_TIKTOK_MMMM",
+      "box": false,
+      "lighting": "TIKTOK_WARM_8"
+    },
+    "solders": {
+      "1": "MISSING",
+      "2": "MISSING",
+      "3": "MISSING",
+      "4": "MISSING"
+    }
+  },
+  "10cm__NO_BOX__LED_GREEN__1G_2G_3B_4B.jpeg": {
+    "filename": "10cm__NO_BOX__LED_GREEN__1G_2G_3B_4B.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GGBB",
+      "box": false,
+      "lighting": "LED_GREEN"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "BAD",
+      "4": "BAD"
+    }
+  },
+  "10cm__NO_BOX__LED_RED__1G_2G_3G_4G.jpeg": {
+    "filename": "10cm__NO_BOX__LED_RED__1G_2G_3G_4G.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GGGG",
+      "box": false,
+      "lighting": "LED_RED"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "GOOD",
+      "4": "GOOD"
+    }
+  },
+  "10cm__BOX__LED_YELLOW__1G_2B_3G_4B.jpeg": {
+    "filename": "10cm__BOX__LED_YELLOW__1G_2B_3G_4B.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GBGB",
+      "box": true,
+      "lighting": "LED_YELLOW"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "BAD",
+      "3": "GOOD",
+      "4": "BAD"
+    }
+  },
+  "10cm__BOX__TIKTOK_WARM_8__1M_2M_3M_4M.jpeg": {
+    "filename": "10cm__BOX__TIKTOK_WARM_8__1M_2M_3M_4M.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230426_TIKTOK_MMMM",
+      "box": true,
+      "lighting": "TIKTOK_WARM_8"
+    },
+    "solders": {
+      "1": "MISSING",
+      "2": "MISSING",
+      "3": "MISSING",
+      "4": "MISSING"
+    }
+  },
+  "10cm__NO_BOX__LED_PINK__1G_2B_3G_4B.jpeg": {
+    "filename": "10cm__NO_BOX__LED_PINK__1G_2B_3G_4B.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GBGB",
+      "box": false,
+      "lighting": "LED_PINK"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "BAD",
+      "3": "GOOD",
+      "4": "BAD"
+    }
+  },
+  "10cm__NO_BOX__TIKTOK_WHITE_8__1G_2B_3G_4B.jpeg": {
+    "filename": "10cm__NO_BOX__TIKTOK_WHITE_8__1G_2B_3G_4B.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230426_TIKTOK_GBGB",
+      "box": false,
+      "lighting": "TIKTOK_WHITE_8"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "BAD",
+      "3": "GOOD",
+      "4": "BAD"
+    }
+  },
+  "10cm__NO_BOX__LED_WHITE__1G_2B_3G_4G.jpeg": {
+    "filename": "10cm__NO_BOX__LED_WHITE__1G_2B_3G_4G.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GBGG",
+      "box": false,
+      "lighting": "LED_WHITE"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "BAD",
+      "3": "GOOD",
+      "4": "GOOD"
+    }
+  },
+  "10cm__BOX__LED_RED__1M_2M_3M_4M.jpeg": {
+    "filename": "10cm__BOX__LED_RED__1M_2M_3M_4M.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_MMMM",
+      "box": true,
+      "lighting": "LED_RED"
+    },
+    "solders": {
+      "1": "MISSING",
+      "2": "MISSING",
+      "3": "MISSING",
+      "4": "MISSING"
+    }
+  },
+  "10cm__NO_BOX__LED_CYAN__1G_2B_3G_4G.jpeg": {
+    "filename": "10cm__NO_BOX__LED_CYAN__1G_2B_3G_4G.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GBGG",
+      "box": false,
+      "lighting": "LED_CYAN"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "BAD",
+      "3": "GOOD",
+      "4": "GOOD"
+    }
+  },
+  "10cm__NO_BOX__TIKTOK_WARM_8__1G_2G_3B_4B.jpeg": {
+    "filename": "10cm__NO_BOX__TIKTOK_WARM_8__1G_2G_3B_4B.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230426_TIKTOK_GGBB",
+      "box": false,
+      "lighting": "TIKTOK_WARM_8"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "BAD",
+      "4": "BAD"
+    }
+  },
+  "5cm__BOX__TIKTOK_WARM_8__1G_2G_3G_4G.jpeg": {
+    "filename": "5cm__BOX__TIKTOK_WARM_8__1G_2G_3G_4G.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 5.0
+    },
+    "environment": {
+      "setup_id": "20230426_TIKTOK_GGGG_5CM",
+      "box": true,
+      "lighting": "TIKTOK_WARM_8"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "GOOD",
+      "4": "GOOD"
+    }
+  },
+  "10cm__BOX__LED_LIGHTBLUE__1G_2G_3G_4G.jpeg": {
+    "filename": "10cm__BOX__LED_LIGHTBLUE__1G_2G_3G_4G.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GGGG",
+      "box": true,
+      "lighting": "LED_LIGHTBLUE"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "GOOD",
+      "4": "GOOD"
+    }
+  },
+  "10cm__NO_BOX__LED_WHITE__1M_2M_3M_4M.jpeg": {
+    "filename": "10cm__NO_BOX__LED_WHITE__1M_2M_3M_4M.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_MMMM",
+      "box": false,
+      "lighting": "LED_WHITE"
+    },
+    "solders": {
+      "1": "MISSING",
+      "2": "MISSING",
+      "3": "MISSING",
+      "4": "MISSING"
+    }
+  },
+  "10cm__NO_BOX__TIKTOK_WARM_8__1G_2B_3G_4B.jpeg": {
+    "filename": "10cm__NO_BOX__TIKTOK_WARM_8__1G_2B_3G_4B.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230426_TIKTOK_GBGB",
+      "box": false,
+      "lighting": "TIKTOK_WARM_8"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "BAD",
+      "3": "GOOD",
+      "4": "BAD"
+    }
+  },
+  "10cm__BOX__LED_CYAN__1G_2B_3G_4G.jpeg": {
+    "filename": "10cm__BOX__LED_CYAN__1G_2B_3G_4G.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GBGG",
+      "box": true,
+      "lighting": "LED_CYAN"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "BAD",
+      "3": "GOOD",
+      "4": "GOOD"
+    }
+  },
+  "10cm__BOX__LED_WHITE__1G_2G_3G_4G.jpeg": {
+    "filename": "10cm__BOX__LED_WHITE__1G_2G_3G_4G.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GGGG",
+      "box": true,
+      "lighting": "LED_WHITE"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "GOOD",
+      "4": "GOOD"
+    }
+  },
+  "10cm__BOX__TIKTOK_WARM_8__1G_2B_3G_4B.jpeg": {
+    "filename": "10cm__BOX__TIKTOK_WARM_8__1G_2B_3G_4B.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230426_TIKTOK_GBGB",
+      "box": true,
+      "lighting": "TIKTOK_WARM_8"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "BAD",
+      "3": "GOOD",
+      "4": "BAD"
+    }
+  },
+  "10cm__BOX__LED_WHITE__1M_2M_3M_4M.jpeg": {
+    "filename": "10cm__BOX__LED_WHITE__1M_2M_3M_4M.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_MMMM",
+      "box": true,
+      "lighting": "LED_WHITE"
+    },
+    "solders": {
+      "1": "MISSING",
+      "2": "MISSING",
+      "3": "MISSING",
+      "4": "MISSING"
+    }
+  },
+  "10cm__NO_BOX__TIKTOK_COLD_8__1M_2M_3M_4M.jpeg": {
+    "filename": "10cm__NO_BOX__TIKTOK_COLD_8__1M_2M_3M_4M.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230426_TIKTOK_MMMM",
+      "box": false,
+      "lighting": "TIKTOK_COLD_8"
+    },
+    "solders": {
+      "1": "MISSING",
+      "2": "MISSING",
+      "3": "MISSING",
+      "4": "MISSING"
+    }
+  },
+  "10cm__BOX__LED_LIGHTBLUE__1M_2M_3M_4M.jpeg": {
+    "filename": "10cm__BOX__LED_LIGHTBLUE__1M_2M_3M_4M.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_MMMM",
+      "box": true,
+      "lighting": "LED_LIGHTBLUE"
+    },
+    "solders": {
+      "1": "MISSING",
+      "2": "MISSING",
+      "3": "MISSING",
+      "4": "MISSING"
+    }
+  },
+  "10cm__NO_BOX__LED_PURPLE__1G_2B_3G_4G.jpeg": {
+    "filename": "10cm__NO_BOX__LED_PURPLE__1G_2B_3G_4G.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GBGG",
+      "box": false,
+      "lighting": "LED_PURPLE"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "BAD",
+      "3": "GOOD",
+      "4": "GOOD"
+    }
+  },
+  "10cm__NO_BOX__LED_WHITE__1G_2G_3B_4B.jpeg": {
+    "filename": "10cm__NO_BOX__LED_WHITE__1G_2G_3B_4B.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GGBB",
+      "box": false,
+      "lighting": "LED_WHITE"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "BAD",
+      "4": "BAD"
+    }
+  },
+  "10cm__NO_BOX__LED_PURPLE__1M_2M_3M_4M.jpeg": {
+    "filename": "10cm__NO_BOX__LED_PURPLE__1M_2M_3M_4M.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_MMMM",
+      "box": false,
+      "lighting": "LED_PURPLE"
+    },
+    "solders": {
+      "1": "MISSING",
+      "2": "MISSING",
+      "3": "MISSING",
+      "4": "MISSING"
+    }
+  },
+  "10cm__NO_BOX__LED_RED__1G_2B_3G_4B.jpeg": {
+    "filename": "10cm__NO_BOX__LED_RED__1G_2B_3G_4B.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GBGB",
+      "box": false,
+      "lighting": "LED_RED"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "BAD",
+      "3": "GOOD",
+      "4": "BAD"
+    }
+  },
+  "10cm__NO_BOX__LED_LIGHTBLUE__1M_2M_3M_4M.jpeg": {
+    "filename": "10cm__NO_BOX__LED_LIGHTBLUE__1M_2M_3M_4M.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_MMMM",
+      "box": false,
+      "lighting": "LED_LIGHTBLUE"
+    },
+    "solders": {
+      "1": "MISSING",
+      "2": "MISSING",
+      "3": "MISSING",
+      "4": "MISSING"
+    }
+  },
+  "10cm__NO_BOX__LED_LIGHTBLUE__1G_2B_3G_4G.jpeg": {
+    "filename": "10cm__NO_BOX__LED_LIGHTBLUE__1G_2B_3G_4G.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GBGG",
+      "box": false,
+      "lighting": "LED_LIGHTBLUE"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "BAD",
+      "3": "GOOD",
+      "4": "GOOD"
+    }
+  },
+  "10cm__NO_BOX__TIKTOK_COLD_8__1G_2G_3B_4B.jpeg": {
+    "filename": "10cm__NO_BOX__TIKTOK_COLD_8__1G_2G_3B_4B.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230426_TIKTOK_GGBB",
+      "box": false,
+      "lighting": "TIKTOK_COLD_8"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "BAD",
+      "4": "BAD"
+    }
+  },
+  "10cm__NO_BOX__LED_WHITE__1G_2B_3G_4B.jpeg": {
+    "filename": "10cm__NO_BOX__LED_WHITE__1G_2B_3G_4B.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GBGB",
+      "box": false,
+      "lighting": "LED_WHITE"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "BAD",
+      "3": "GOOD",
+      "4": "BAD"
+    }
+  },
+  "10cm__NO_BOX__LED_YELLOW__1G_2G_3B_4B.jpeg": {
+    "filename": "10cm__NO_BOX__LED_YELLOW__1G_2G_3B_4B.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GGBB",
+      "box": false,
+      "lighting": "LED_YELLOW"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "BAD",
+      "4": "BAD"
+    }
+  },
+  "10cm__BOX__LED_LIGHTBLUE__1G_2G_3B_4B.jpeg": {
+    "filename": "10cm__BOX__LED_LIGHTBLUE__1G_2G_3B_4B.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GGBB",
+      "box": true,
+      "lighting": "LED_LIGHTBLUE"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "BAD",
+      "4": "BAD"
+    }
+  },
+  "10cm__NO_BOX__LED_RED__1G_2B_3G_4G.jpeg": {
+    "filename": "10cm__NO_BOX__LED_RED__1G_2B_3G_4G.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GBGG",
+      "box": false,
+      "lighting": "LED_RED"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "BAD",
+      "3": "GOOD",
+      "4": "GOOD"
+    }
+  },
+  "10cm__NO_BOX__LED_CYAN__1G_2G_3B_4B.jpeg": {
+    "filename": "10cm__NO_BOX__LED_CYAN__1G_2G_3B_4B.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GGBB",
+      "box": false,
+      "lighting": "LED_CYAN"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "BAD",
+      "4": "BAD"
+    }
+  },
+  "10cm__BOX__LED_PINK__1G_2G_3B_4B.jpeg": {
+    "filename": "10cm__BOX__LED_PINK__1G_2G_3B_4B.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GGBB",
+      "box": true,
+      "lighting": "LED_PINK"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "BAD",
+      "4": "BAD"
+    }
+  },
+  "10cm__NO_BOX__LED_PINK__1G_2G_3B_4B.jpeg": {
+    "filename": "10cm__NO_BOX__LED_PINK__1G_2G_3B_4B.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GGBB",
+      "box": false,
+      "lighting": "LED_PINK"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "BAD",
+      "4": "BAD"
+    }
+  },
+  "10cm__BOX__LED_PURPLE__1G_2G_3G_4G.jpeg": {
+    "filename": "10cm__BOX__LED_PURPLE__1G_2G_3G_4G.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GGGG",
+      "box": true,
+      "lighting": "LED_PURPLE"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "GOOD",
+      "4": "GOOD"
+    }
+  },
+  "10cm__NO_BOX__LED_YELLOW__1G_2B_3G_4G.jpeg": {
+    "filename": "10cm__NO_BOX__LED_YELLOW__1G_2B_3G_4G.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GBGG",
+      "box": false,
+      "lighting": "LED_YELLOW"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "BAD",
+      "3": "GOOD",
+      "4": "GOOD"
+    }
+  },
+  "10cm__NO_BOX__LED_GREEN__1G_2B_3G_4B.jpeg": {
+    "filename": "10cm__NO_BOX__LED_GREEN__1G_2B_3G_4B.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GBGB",
+      "box": false,
+      "lighting": "LED_GREEN"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "BAD",
+      "3": "GOOD",
+      "4": "BAD"
+    }
+  },
+  "10cm__BOX__LED_PINK__1M_2M_3M_4M.jpeg": {
+    "filename": "10cm__BOX__LED_PINK__1M_2M_3M_4M.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_MMMM",
+      "box": true,
+      "lighting": "LED_PINK"
+    },
+    "solders": {
+      "1": "MISSING",
+      "2": "MISSING",
+      "3": "MISSING",
+      "4": "MISSING"
+    }
+  },
+  "10cm__BOX__TIKTOK_WHITE_8__1M_2M_3M_4M.jpeg": {
+    "filename": "10cm__BOX__TIKTOK_WHITE_8__1M_2M_3M_4M.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230426_TIKTOK_MMMM",
+      "box": true,
+      "lighting": "TIKTOK_WHITE_8"
+    },
+    "solders": {
+      "1": "MISSING",
+      "2": "MISSING",
+      "3": "MISSING",
+      "4": "MISSING"
+    }
+  },
+  "5cm__BOX__TIKTOK_COLD_8__1G_2G_3G_4G.jpeg": {
+    "filename": "5cm__BOX__TIKTOK_COLD_8__1G_2G_3G_4G.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 5.0
+    },
+    "environment": {
+      "setup_id": "20230426_TIKTOK_GGGG_5CM",
+      "box": true,
+      "lighting": "TIKTOK_COLD_8"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "GOOD",
+      "4": "GOOD"
+    }
+  },
+  "10cm__BOX__LED_DEEPBLUE__1G_2G_3B_4B.jpeg": {
+    "filename": "10cm__BOX__LED_DEEPBLUE__1G_2G_3B_4B.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GGBB",
+      "box": true,
+      "lighting": "LED_DEEPBLUE"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "BAD",
+      "4": "BAD"
+    }
+  },
+  "10cm__BOX__TIKTOK_COLD_8__1G_2G_3B_4B.jpeg": {
+    "filename": "10cm__BOX__TIKTOK_COLD_8__1G_2G_3B_4B.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230426_TIKTOK_GGBB",
+      "box": true,
+      "lighting": "TIKTOK_COLD_8"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "BAD",
+      "4": "BAD"
+    }
+  },
+  "10cm__BOX__LED_YELLOW__1G_2B_3G_4G.jpeg": {
+    "filename": "10cm__BOX__LED_YELLOW__1G_2B_3G_4G.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GBGG",
+      "box": true,
+      "lighting": "LED_YELLOW"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "BAD",
+      "3": "GOOD",
+      "4": "GOOD"
+    }
+  },
+  "10cm__NO_BOX__LED_DEEPBLUE__1G_2B_3G_4B.jpeg": {
+    "filename": "10cm__NO_BOX__LED_DEEPBLUE__1G_2B_3G_4B.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GBGB",
+      "box": false,
+      "lighting": "LED_DEEPBLUE"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "BAD",
+      "3": "GOOD",
+      "4": "BAD"
+    }
+  },
+  "5cm__BOX__TIKTOK_WHITE_2__1G_2G_3G_4G.jpeg": {
+    "filename": "5cm__BOX__TIKTOK_WHITE_2__1G_2G_3G_4G.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 5.0
+    },
+    "environment": {
+      "setup_id": "20230426_TIKTOK_GGGG_5CM",
+      "box": true,
+      "lighting": "TIKTOK_WHITE_2"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "GOOD",
+      "4": "GOOD"
+    }
+  },
+  "10cm__BOX__LED_DEEPBLUE__1M_2M_3M_4M.jpeg": {
+    "filename": "10cm__BOX__LED_DEEPBLUE__1M_2M_3M_4M.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_MMMM",
+      "box": true,
+      "lighting": "LED_DEEPBLUE"
+    },
+    "solders": {
+      "1": "MISSING",
+      "2": "MISSING",
+      "3": "MISSING",
+      "4": "MISSING"
+    }
+  },
+  "10cm__BOX__LED_WHITE__1G_2G_3B_4B.jpeg": {
+    "filename": "10cm__BOX__LED_WHITE__1G_2G_3B_4B.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GGBB",
+      "box": true,
+      "lighting": "LED_WHITE"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "BAD",
+      "4": "BAD"
+    }
+  },
+  "5cm__BOX__HOLE__1G_2G_3G_4G.jpeg": {
+    "filename": "5cm__BOX__HOLE__1G_2G_3G_4G.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 5.0
+    },
+    "environment": {
+      "setup_id": "20230426_TIKTOK_GGGG_5CM",
+      "box": true,
+      "lighting": "HOLE"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "GOOD",
+      "4": "GOOD"
+    }
+  },
+  "10cm__NO_BOX__LED_YELLOW__1G_2G_3G_4G.jpeg": {
+    "filename": "10cm__NO_BOX__LED_YELLOW__1G_2G_3G_4G.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GGGG",
+      "box": false,
+      "lighting": "LED_YELLOW"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "GOOD",
+      "4": "GOOD"
+    }
+  },
+  "10cm__BOX__LED_RED__1G_2G_3G_4G.jpeg": {
+    "filename": "10cm__BOX__LED_RED__1G_2G_3G_4G.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GGGG",
+      "box": true,
+      "lighting": "LED_RED"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "GOOD",
+      "4": "GOOD"
+    }
+  },
+  "10cm__NO_BOX__LED_CYAN__1M_2M_3M_4M.jpeg": {
+    "filename": "10cm__NO_BOX__LED_CYAN__1M_2M_3M_4M.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_MMMM",
+      "box": false,
+      "lighting": "LED_CYAN"
+    },
+    "solders": {
+      "1": "MISSING",
+      "2": "MISSING",
+      "3": "MISSING",
+      "4": "MISSING"
+    }
+  },
+  "10cm__NO_BOX__LED_CYAN__1G_2G_3G_4G.jpeg": {
+    "filename": "10cm__NO_BOX__LED_CYAN__1G_2G_3G_4G.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GGGG",
+      "box": false,
+      "lighting": "LED_CYAN"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "GOOD",
+      "4": "GOOD"
+    }
+  },
+  "10cm__NO_BOX__LED_DEEPBLUE__1G_2G_3G_4G.jpeg": {
+    "filename": "10cm__NO_BOX__LED_DEEPBLUE__1G_2G_3G_4G.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GGGG",
+      "box": false,
+      "lighting": "LED_DEEPBLUE"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "GOOD",
+      "4": "GOOD"
+    }
+  },
+  "10cm__NO_BOX__TIKTOK_WHITE_8__1G_2G_3G_4G.jpeg": {
+    "filename": "10cm__NO_BOX__TIKTOK_WHITE_8__1G_2G_3G_4G.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230426_TIKTOK_GGGG",
+      "box": false,
+      "lighting": "TIKTOK_WHITE_8"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "GOOD",
+      "4": "GOOD"
+    }
+  },
+  "10cm__BOX__LED_LIGHTBLUE__1G_2B_3G_4G.jpeg": {
+    "filename": "10cm__BOX__LED_LIGHTBLUE__1G_2B_3G_4G.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GBGG",
+      "box": true,
+      "lighting": "LED_LIGHTBLUE"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "BAD",
+      "3": "GOOD",
+      "4": "GOOD"
+    }
+  },
+  "10cm__BOX__LED_YELLOW__1M_2M_3M_4M.jpeg": {
+    "filename": "10cm__BOX__LED_YELLOW__1M_2M_3M_4M.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_MMMM",
+      "box": true,
+      "lighting": "LED_YELLOW"
+    },
+    "solders": {
+      "1": "MISSING",
+      "2": "MISSING",
+      "3": "MISSING",
+      "4": "MISSING"
+    }
+  },
+  "10cm__NO_BOX__LED_CYAN__1G_2B_3G_4B.jpeg": {
+    "filename": "10cm__NO_BOX__LED_CYAN__1G_2B_3G_4B.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GBGB",
+      "box": false,
+      "lighting": "LED_CYAN"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "BAD",
+      "3": "GOOD",
+      "4": "BAD"
+    }
+  },
+  "10cm__NO_BOX__LED_PURPLE__1G_2G_3B_4B.jpeg": {
+    "filename": "10cm__NO_BOX__LED_PURPLE__1G_2G_3B_4B.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GGBB",
+      "box": false,
+      "lighting": "LED_PURPLE"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "BAD",
+      "4": "BAD"
+    }
+  },
+  "10cm__NO_BOX__TIKTOK_COLD_8__1G_2B_3G_4B.jpeg": {
+    "filename": "10cm__NO_BOX__TIKTOK_COLD_8__1G_2B_3G_4B.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230426_TIKTOK_GBGB",
+      "box": false,
+      "lighting": "TIKTOK_COLD_8"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "BAD",
+      "3": "GOOD",
+      "4": "BAD"
+    }
+  },
+  "10cm__BOX__LED_PURPLE__1G_2B_3G_4G.jpeg": {
+    "filename": "10cm__BOX__LED_PURPLE__1G_2B_3G_4G.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GBGG",
+      "box": true,
+      "lighting": "LED_PURPLE"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "BAD",
+      "3": "GOOD",
+      "4": "GOOD"
+    }
+  },
+  "10cm__NO_BOX__LED_PURPLE__1G_2B_3G_4B.jpeg": {
+    "filename": "10cm__NO_BOX__LED_PURPLE__1G_2B_3G_4B.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GBGB",
+      "box": false,
+      "lighting": "LED_PURPLE"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "BAD",
+      "3": "GOOD",
+      "4": "BAD"
+    }
+  },
+  "10cm__BOX__TIKTOK_WARM_8__1G_2G_3B_4B.jpeg": {
+    "filename": "10cm__BOX__TIKTOK_WARM_8__1G_2G_3B_4B.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230426_TIKTOK_GGBB",
+      "box": true,
+      "lighting": "TIKTOK_WARM_8"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "BAD",
+      "4": "BAD"
+    }
+  },
+  "5cm__BOX__TIKTOK_WHITE_5__1G_2G_3G_4G.jpeg": {
+    "filename": "5cm__BOX__TIKTOK_WHITE_5__1G_2G_3G_4G.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 5.0
+    },
+    "environment": {
+      "setup_id": "20230426_TIKTOK_GGGG_5CM",
+      "box": true,
+      "lighting": "TIKTOK_WHITE_5"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "GOOD",
+      "4": "GOOD"
+    }
+  },
+  "5cm__NO_BOX__TIKTOK_COLD_8__1G_2G_3G_4G.jpeg": {
+    "filename": "5cm__NO_BOX__TIKTOK_COLD_8__1G_2G_3G_4G.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 5.0
+    },
+    "environment": {
+      "setup_id": "20230426_TIKTOK_GGGG_5CM",
+      "box": false,
+      "lighting": "TIKTOK_COLD_8"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "GOOD",
+      "4": "GOOD"
+    }
+  },
+  "5cm__BOX__TIKTOK_WHITE_3__1G_2G_3G_4G.jpeg": {
+    "filename": "5cm__BOX__TIKTOK_WHITE_3__1G_2G_3G_4G.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 5.0
+    },
+    "environment": {
+      "setup_id": "20230426_TIKTOK_GGGG_5CM",
+      "box": true,
+      "lighting": "TIKTOK_WHITE_3"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "GOOD",
+      "4": "GOOD"
+    }
+  },
+  "10cm__BOX__LED_YELLOW__1G_2G_3B_4B.jpeg": {
+    "filename": "10cm__BOX__LED_YELLOW__1G_2G_3B_4B.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GGBB",
+      "box": true,
+      "lighting": "LED_YELLOW"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "BAD",
+      "4": "BAD"
+    }
+  },
+  "10cm__BOX__LED_PINK__1G_2B_3G_4G.jpeg": {
+    "filename": "10cm__BOX__LED_PINK__1G_2B_3G_4G.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GBGG",
+      "box": true,
+      "lighting": "LED_PINK"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "BAD",
+      "3": "GOOD",
+      "4": "GOOD"
+    }
+  },
+  "10cm__NO_BOX__LED_GREEN__1G_2B_3G_4G.jpeg": {
+    "filename": "10cm__NO_BOX__LED_GREEN__1G_2B_3G_4G.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GBGG",
+      "box": false,
+      "lighting": "LED_GREEN"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "BAD",
+      "3": "GOOD",
+      "4": "GOOD"
+    }
+  },
+  "10cm__NO_BOX__LED_RED__1G_2G_3B_4B.jpeg": {
+    "filename": "10cm__NO_BOX__LED_RED__1G_2G_3B_4B.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GGBB",
+      "box": false,
+      "lighting": "LED_RED"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "BAD",
+      "4": "BAD"
+    }
+  },
+  "10cm__BOX__LED_GREEN__1G_2B_3G_4B.jpeg": {
+    "filename": "10cm__BOX__LED_GREEN__1G_2B_3G_4B.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GBGB",
+      "box": true,
+      "lighting": "LED_GREEN"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "BAD",
+      "3": "GOOD",
+      "4": "BAD"
+    }
+  },
+  "5cm__NO_BOX__TIKTOK_WARM_8__1G_2G_3G_4G.jpeg": {
+    "filename": "5cm__NO_BOX__TIKTOK_WARM_8__1G_2G_3G_4G.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 5.0
+    },
+    "environment": {
+      "setup_id": "20230426_TIKTOK_GGGG_5CM",
+      "box": false,
+      "lighting": "TIKTOK_WARM_8"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "GOOD",
+      "4": "GOOD"
+    }
+  },
+  "10cm__NO_BOX__LED_LIGHTBLUE__1G_2G_3B_4B.jpeg": {
+    "filename": "10cm__NO_BOX__LED_LIGHTBLUE__1G_2G_3B_4B.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GGBB",
+      "box": false,
+      "lighting": "LED_LIGHTBLUE"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "BAD",
+      "4": "BAD"
+    }
+  },
+  "10cm__BOX__LED_GREEN__1G_2G_3G_4G.jpeg": {
+    "filename": "10cm__BOX__LED_GREEN__1G_2G_3G_4G.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GGGG",
+      "box": true,
+      "lighting": "LED_GREEN"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "GOOD",
+      "4": "GOOD"
+    }
+  },
+  "10cm__BOX__LED_GREEN__1G_2G_3B_4B.jpeg": {
+    "filename": "10cm__BOX__LED_GREEN__1G_2G_3B_4B.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GGBB",
+      "box": true,
+      "lighting": "LED_GREEN"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "BAD",
+      "4": "BAD"
+    }
+  },
+  "5cm__BOX__TIKTOK_WHITE_7__1G_2G_3G_4G.jpeg": {
+    "filename": "5cm__BOX__TIKTOK_WHITE_7__1G_2G_3G_4G.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 5.0
+    },
+    "environment": {
+      "setup_id": "20230426_TIKTOK_GGGG_5CM",
+      "box": true,
+      "lighting": "TIKTOK_WHITE_7"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "GOOD",
+      "4": "GOOD"
+    }
+  },
+  "10cm__BOX__LED_YELLOW__1G_2G_3G_4G.jpeg": {
+    "filename": "10cm__BOX__LED_YELLOW__1G_2G_3G_4G.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GGGG",
+      "box": true,
+      "lighting": "LED_YELLOW"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "GOOD",
+      "4": "GOOD"
+    }
+  },
+  "10cm__NO_BOX__LED_GREEN__1G_2G_3G_4G.jpeg": {
+    "filename": "10cm__NO_BOX__LED_GREEN__1G_2G_3G_4G.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GGGG",
+      "box": false,
+      "lighting": "LED_GREEN"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "GOOD",
+      "4": "GOOD"
+    }
+  },
+  "10cm__NO_BOX__LED_WHITE__1G_2G_3G_4G.jpeg": {
+    "filename": "10cm__NO_BOX__LED_WHITE__1G_2G_3G_4G.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GGGG",
+      "box": false,
+      "lighting": "LED_WHITE"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "GOOD",
+      "4": "GOOD"
+    }
+  },
+  "10cm__BOX__TIKTOK_COLD_8__1M_2M_3M_4M.jpeg": {
+    "filename": "10cm__BOX__TIKTOK_COLD_8__1M_2M_3M_4M.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230426_TIKTOK_MMMM",
+      "box": true,
+      "lighting": "TIKTOK_COLD_8"
+    },
+    "solders": {
+      "1": "MISSING",
+      "2": "MISSING",
+      "3": "MISSING",
+      "4": "MISSING"
+    }
+  },
+  "10cm__BOX__LED_DEEPBLUE__1G_2B_3G_4B.jpeg": {
+    "filename": "10cm__BOX__LED_DEEPBLUE__1G_2B_3G_4B.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GBGB",
+      "box": true,
+      "lighting": "LED_DEEPBLUE"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "BAD",
+      "3": "GOOD",
+      "4": "BAD"
+    }
+  },
+  "10cm__NO_BOX__LED_RED__1M_2M_3M_4M.jpeg": {
+    "filename": "10cm__NO_BOX__LED_RED__1M_2M_3M_4M.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_MMMM",
+      "box": false,
+      "lighting": "LED_RED"
+    },
+    "solders": {
+      "1": "MISSING",
+      "2": "MISSING",
+      "3": "MISSING",
+      "4": "MISSING"
+    }
+  },
+  "10cm__NO_BOX__LED_DEEPBLUE__1G_2G_3B_4B.jpeg": {
+    "filename": "10cm__NO_BOX__LED_DEEPBLUE__1G_2G_3B_4B.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GGBB",
+      "box": false,
+      "lighting": "LED_DEEPBLUE"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "BAD",
+      "4": "BAD"
+    }
+  },
+  "10cm__BOX__LED_PINK__1G_2G_3G_4G.jpeg": {
+    "filename": "10cm__BOX__LED_PINK__1G_2G_3G_4G.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GGGG",
+      "box": true,
+      "lighting": "LED_PINK"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "GOOD",
+      "4": "GOOD"
+    }
+  },
+  "10cm__BOX__LED_CYAN__1G_2G_3B_4B.jpeg": {
+    "filename": "10cm__BOX__LED_CYAN__1G_2G_3B_4B.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GGBB",
+      "box": true,
+      "lighting": "LED_CYAN"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "BAD",
+      "4": "BAD"
+    }
+  },
+  "10cm__BOX__LED_GREEN__1M_2M_3M_4M.jpeg": {
+    "filename": "10cm__BOX__LED_GREEN__1M_2M_3M_4M.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_MMMM",
+      "box": true,
+      "lighting": "LED_GREEN"
+    },
+    "solders": {
+      "1": "MISSING",
+      "2": "MISSING",
+      "3": "MISSING",
+      "4": "MISSING"
+    }
+  },
+  "10cm__NO_BOX__LED_PINK__1G_2B_3G_4G.jpeg": {
+    "filename": "10cm__NO_BOX__LED_PINK__1G_2B_3G_4G.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GBGG",
+      "box": false,
+      "lighting": "LED_PINK"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "BAD",
+      "3": "GOOD",
+      "4": "GOOD"
+    }
+  },
+  "10cm__BOX__LED_PURPLE__1G_2G_3B_4B.jpeg": {
+    "filename": "10cm__BOX__LED_PURPLE__1G_2G_3B_4B.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GGBB",
+      "box": true,
+      "lighting": "LED_PURPLE"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "BAD",
+      "4": "BAD"
+    }
+  },
+  "10cm__BOX__LED_DEEPBLUE__1G_2G_3G_4G.jpeg": {
+    "filename": "10cm__BOX__LED_DEEPBLUE__1G_2G_3G_4G.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GGGG",
+      "box": true,
+      "lighting": "LED_DEEPBLUE"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "GOOD",
+      "4": "GOOD"
+    }
+  },
+  "10cm__BOX__TIKTOK_COLD_8__1G_2B_3G_4B.jpeg": {
+    "filename": "10cm__BOX__TIKTOK_COLD_8__1G_2B_3G_4B.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230426_TIKTOK_GBGB",
+      "box": true,
+      "lighting": "TIKTOK_COLD_8"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "BAD",
+      "3": "GOOD",
+      "4": "BAD"
+    }
+  },
+  "10cm__NO_BOX__LED_YELLOW__1M_2M_3M_4M.jpeg": {
+    "filename": "10cm__NO_BOX__LED_YELLOW__1M_2M_3M_4M.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_MMMM",
+      "box": false,
+      "lighting": "LED_YELLOW"
+    },
+    "solders": {
+      "1": "MISSING",
+      "2": "MISSING",
+      "3": "MISSING",
+      "4": "MISSING"
+    }
+  },
+  "10cm__NO_BOX__LED_LIGHTBLUE__1G_2B_3G_4B.jpeg": {
+    "filename": "10cm__NO_BOX__LED_LIGHTBLUE__1G_2B_3G_4B.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GBGB",
+      "box": false,
+      "lighting": "LED_LIGHTBLUE"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "BAD",
+      "3": "GOOD",
+      "4": "BAD"
+    }
+  },
+  "10cm__BOX__TIKTOK_WARM_8__1G_2G_3G_4G.jpeg": {
+    "filename": "10cm__BOX__TIKTOK_WARM_8__1G_2G_3G_4G.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230426_TIKTOK_GGGG",
+      "box": true,
+      "lighting": "TIKTOK_WARM_8"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "GOOD",
+      "4": "GOOD"
+    }
+  },
+  "10cm__NO_BOX__TIKTOK_WARM_8__1G_2G_3G_4G.jpeg": {
+    "filename": "10cm__NO_BOX__TIKTOK_WARM_8__1G_2G_3G_4G.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230426_TIKTOK_GGGG",
+      "box": false,
+      "lighting": "TIKTOK_WARM_8"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "GOOD",
+      "4": "GOOD"
+    }
+  },
+  "10cm__BOX__LED_PINK__1G_2B_3G_4B.jpeg": {
+    "filename": "10cm__BOX__LED_PINK__1G_2B_3G_4B.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GBGB",
+      "box": true,
+      "lighting": "LED_PINK"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "BAD",
+      "3": "GOOD",
+      "4": "BAD"
+    }
+  },
+  "10cm__BOX__LED_WHITE__1G_2B_3G_4B.jpeg": {
+    "filename": "10cm__BOX__LED_WHITE__1G_2B_3G_4B.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GBGB",
+      "box": true,
+      "lighting": "LED_WHITE"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "BAD",
+      "3": "GOOD",
+      "4": "BAD"
+    }
+  },
+  "10cm__NO_BOX__TIKTOK_WHITE_8__1G_2G_3B_4B.jpeg": {
+    "filename": "10cm__NO_BOX__TIKTOK_WHITE_8__1G_2G_3B_4B.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230426_TIKTOK_GGBB",
+      "box": false,
+      "lighting": "TIKTOK_WHITE_8"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "BAD",
+      "4": "BAD"
+    }
+  },
+  "10cm__BOX__LED_RED__1G_2G_3B_4B.jpeg": {
+    "filename": "10cm__BOX__LED_RED__1G_2G_3B_4B.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GGBB",
+      "box": true,
+      "lighting": "LED_RED"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "BAD",
+      "4": "BAD"
+    }
+  },
+  "10cm__BOX__LED_RED__1G_2B_3G_4G.jpeg": {
+    "filename": "10cm__BOX__LED_RED__1G_2B_3G_4G.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GBGG",
+      "box": true,
+      "lighting": "LED_RED"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "BAD",
+      "3": "GOOD",
+      "4": "GOOD"
+    }
+  },
+  "10cm__BOX__TIKTOK_COLD_8__1G_2G_3G_4G.jpeg": {
+    "filename": "10cm__BOX__TIKTOK_COLD_8__1G_2G_3G_4G.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230426_TIKTOK_GGGG",
+      "box": true,
+      "lighting": "TIKTOK_COLD_8"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "GOOD",
+      "4": "GOOD"
+    }
+  },
+  "10cm__NO_BOX__LED_DEEPBLUE__1G_2B_3G_4G.jpeg": {
+    "filename": "10cm__NO_BOX__LED_DEEPBLUE__1G_2B_3G_4G.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GBGG",
+      "box": false,
+      "lighting": "LED_DEEPBLUE"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "BAD",
+      "3": "GOOD",
+      "4": "GOOD"
+    }
+  },
+  "10cm__NO_BOX__LED_PURPLE__1G_2G_3G_4G.jpeg": {
+    "filename": "10cm__NO_BOX__LED_PURPLE__1G_2G_3G_4G.jpeg",
+    "camera": {
+      "name": "iPhone 14 Pro",
+      "focal_length": "13mm",
+      "zoom": "1x",
+      "vertical_distance_cm": 10.0
+    },
+    "environment": {
+      "setup_id": "20230502_LED_GGGG",
+      "box": false,
+      "lighting": "LED_PURPLE"
+    },
+    "solders": {
+      "1": "GOOD",
+      "2": "GOOD",
+      "3": "GOOD",
+      "4": "GOOD"
+    }
+  }
+}
